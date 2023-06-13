@@ -29,7 +29,8 @@ you can edit the structure of every carousel by referring to JavaScript in “co
 
 you can simply modify the number of slides and margin between slides and other properties.
 
-get template source code for free right here:
 
-https://github.com/shahrzadaslami/product-marketing-template-
+🌞
+and  if you like the template maybe buy me a coffee :) 
+https://www.buymeacoffee.com/rahaaslamiz
 
